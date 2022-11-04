@@ -9,11 +9,11 @@ Hello, world. I'm Paul Funston a student studying software development.
 
 - 🌱 I’m looking forward to learning more about AI and automation.
 - 🔭 I’m currently working on improving efficiency and optimization.
-- 📫 Reach me: <img  src="https://img.shields.io/badge/Mogryo%237259-5865f2?logo=discord&logoColor=white&style=for-the-badge">
+- 📫 Reach me: <img  src="https://img.shields.io/badge/Mogryo%237259-5865f2?logo=discord&logoColor=white&style=for-the-badge" height="16px">
 ##
 
 ### Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Funston)](https://github.com/Paul-Funston/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Funston&layout=compact)](https://github.com/Paul-Funston/github-readme-stats)
 
 ##
 
