@@ -1,17 +1,25 @@
-![Photo by MJH SHIKDER on Unsplash] (assets/nodes.jpg "Photo by MJH SHIKDER on Unsplash")
+
+![Image Test](assets/nodes.jpg "Photo by MJH SHIKDER on Unsplash")
+
+
+  
 ## About me
 👋
 Hello, world. I'm Paul Funston a student studying software development.
 
-I am focused on improving efficiency and optimization, and am looking forward to learning more about AI and automation.
+- 🌱 I’m looking forward to learning more about AI and automation.
+- 🔭 I’m currently working on improving efficiency and optimization.
+- 📫 Reach me: <img  src="https://img.shields.io/badge/Mogryo%237259-5865f2?logo=discord&logoColor=white&style=for-the-badge">
+##
 
+### Skills
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Funston)](https://github.com/Paul-Funston/github-readme-stats)
 
-## Skills
+##
 
-
-## Stats
-
-
+### Stats
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paul-Funston&show_icons=true&theme=nightowl)
+##
 
 <!--
 
